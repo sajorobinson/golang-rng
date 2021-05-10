@@ -1,6 +1,6 @@
 # golang-rng
 
-golang-rng is a simple script written in Go that generates a random positive integer between 1 and a maximum number, which is defined in the script.
+**golang-rng** is a simple script written in Go that generates a random positive integer between 1 and a maximum number, which is defined in the script. I wrote this script to learn a little about Go.
 
 ## How to use
 
